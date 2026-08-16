@@ -1,0 +1,6 @@
+[client]
+user=root
+password=root
+host=127.0.0.1
+database=fashion_bundle_optimizer
+raise_on_warnings=True
